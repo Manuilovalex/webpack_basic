@@ -1,4 +1,4 @@
-# Webpack Basic
+# Webpack Advanced
 
 Проект з власним конфігом Webpack:
 
@@ -8,3 +8,10 @@
 CSS стилі,
 XML,
 CSV,
+devserver
+зовнішні CSS
+препроцесори
+typescript
+babel
+eslint
+analyzer
